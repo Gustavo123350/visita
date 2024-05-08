@@ -1,0 +1,32 @@
+body {
+    background-image: url("./Monogram-GF-Logo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.buiness-card{
+   text-align: center;
+   text-decoration: underline;
+   color: whitesmoke;
+
+}
+
+.whst{
+    color: green;
+}
+.card {
+     background-color: black;
+}
+.card-title{
+    color: whitesmoke;
+}
+.card-text{
+    color: whitesmoke;
+}
+.menu{
+    color: whitesmoke;
+}
+.me{
+    color: whitesmoke;
+}
+
