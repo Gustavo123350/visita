@@ -12,6 +12,7 @@
     "@sinonjs/commons": "^4.0.0-alpha.0",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
+    "firebase": "^9.23.0",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
